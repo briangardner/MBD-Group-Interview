@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<customers>
+  <customer>
+    <name>Brian Gardner</name>
+    <id>1</id>
+  </customer>
+  <customer>
+    <name>Paul Gardner</name>
+    <id>2</id>
+  </customer>
+  <customer>
+    <name>Jeff Gardner</name>
+    <id>3</id>
+  </customer>
+</customers>

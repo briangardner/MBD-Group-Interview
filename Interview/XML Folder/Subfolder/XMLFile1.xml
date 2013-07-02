@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Something>
+  <customer>
+    <name>Jo Anne Gardner</name>
+    <id>5</id>
+  </customer>
+  <customer>
+    <name>Andrea Gardner</name>
+    <id>4</id>
+  </customer>
+</Something>

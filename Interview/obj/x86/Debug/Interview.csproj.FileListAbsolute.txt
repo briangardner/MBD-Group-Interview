@@ -1,0 +1,24 @@
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\bin\Debug\Interview.exe
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\bin\Debug\Interview.pdb
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\bin\Debug\nunit.framework.dll
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\bin\Debug\nunit.framework.xml
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\obj\x86\Debug\Interview.Form1.resources
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\obj\x86\Debug\Interview.Properties.Resources.resources
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\obj\x86\Debug\Interview.FolderBrowser.resources
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\obj\x86\Debug\Interview.exe
+D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\obj\x86\Debug\Interview.pdb
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\bin\Debug\Interview.exe
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\bin\Debug\Interview.pdb
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\bin\Debug\nunit.framework.dll
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\bin\Debug\nunit.framework.xml
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\obj\x86\Debug\Interview.Form1.resources
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\obj\x86\Debug\Interview.Properties.Resources.resources
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\obj\x86\Debug\Interview.FolderBrowser.resources
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\obj\x86\Debug\Interview.exe
+D:\Users\a27a7wt\documents\visual studio 2010\Projects\Interview\Interview\obj\x86\Debug\Interview.pdb

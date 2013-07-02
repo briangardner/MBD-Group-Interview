@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\bin\Debug\Interview.exe" total="13" errors="1" failures="2" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2011-04-03" time="21:16:17">
+  <environment nunit-version="2.5.9.10348" clr-version="4.0.30319.1" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\bin\Debug" machine-name="T00690919" user="A27A7WT" user-domain="GEAEAVSYS" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\bin\Debug\Interview.exe" executed="True" result="Failure" success="False" time="0.357" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Interview" executed="True" result="Failure" success="False" time="0.351" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestReportRequest" executed="True" result="Failure" success="False" time="0.334" asserts="0">
+            <results>
+              <test-case name="Interview.TestReportRequest.TestCreatingReportRequestIncludingSubDirectories" executed="True" result="Failure" success="False" time="0.058" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected: 5
+  But was:  6
+]]></message>
+                  <stack-trace><![CDATA[at Interview.TestReportRequest.TestCreatingReportRequestIncludingSubDirectories() in D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\TestReportRequest.cs:line 31
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Interview.TestReportRequest.TestCreatingReportRequestWithoutIncludingSubDirectories" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Interview.TestReportRequest.TestFindingTargetIncludingSubDirectories" executed="True" result="Failure" success="False" time="0.129" asserts="1">
+                <failure>
+                  <message><![CDATA[  Expected: 5
+  But was:  2
+]]></message>
+                  <stack-trace><![CDATA[at Interview.TestReportRequest.TestFindingTargetIncludingSubDirectories() in D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\TestReportRequest.cs:line 54
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Interview.TestReportRequest.TestFindingTargetWithoutSubDirectories" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="Interview.TestReportRequest.TestResultDataOfFirstElementOfResultsIncludingSubDirectories" executed="True" result="Error" success="False" time="0.069" asserts="0">
+                <failure>
+                  <message><![CDATA[System.ArgumentOutOfRangeException : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index]]></message>
+                  <stack-trace><![CDATA[at System.ThrowHelper.ThrowArgumentOutOfRangeException()
+at System.Collections.Generic.List`1.get_Item(Int32 index)
+at Interview.TestReportRequest.TestResultDataOfFirstElementOfResultsIncludingSubDirectories() in D:\Users\a27a7wt\AppData\Local\Temporary Projects\Interview\TestReportRequest.cs:line 61
+]]></stack-trace>
+                </failure>
+              </test-case>
+              <test-case name="Interview.TestReportRequest.TestResultDataOfFirstElementOfResultsWithoutSubDirectories" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TestResult" executed="True" result="Success" success="True" time="0.013" asserts="0">
+            <results>
+              <test-case name="Interview.TestResult.TestCreatingNewResultWithCount" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+              <test-case name="Interview.TestResult.TestCreatingNewResultWithNoCount" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="Interview.TestResult.TestDecrementingCountByOne" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+              <test-case name="Interview.TestResult.TestDecrementingCountByThree" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="Interview.TestResult.TestIncrementingAndDecrementingCount" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="Interview.TestResult.TestIncrementingCountByOne" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="Interview.TestResult.TestIncrementingCountByThree" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
